@@ -399,7 +399,7 @@ do
 					Font = Enum.Font.GothamSemibold,
 					Text = title,
 					TextColor3 = themes.TextColor,
-					TextSize = 15,
+					TextSize = 12,
 					TextXAlignment = Enum.TextXAlignment.Left,
 					TextTransparency = 1
 				}),
